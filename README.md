@@ -1,3 +1,3 @@
 # CS231_Stanford_Assignment
 
-For convenience of pushing it GCE!
+For convenience of pushing it to GCE!
